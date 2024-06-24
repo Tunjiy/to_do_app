@@ -1,6 +1,6 @@
 # Todo_App
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A To_do app created with FlutLab - https://flutlab.io
 
 ## Getting Started
 
